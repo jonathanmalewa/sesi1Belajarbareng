@@ -7,3 +7,6 @@ Ini adalah percobaan collaborasi menggunakan repo github
 
 - Oke siap, di share ke grup discord aja 
 - cc: Maulana
+
+- Copy Lagi Bang,
+- cc: jonathanmalewa
